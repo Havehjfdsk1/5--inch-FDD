@@ -4,3 +4,4 @@ Plans:
   Recreate a 5.25 inch floppy disk drive with new parts.
   Create a BOM 
   A cad or a circuit board project file
+	Make this look nice
